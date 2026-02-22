@@ -1,0 +1,4 @@
+venv/
+logs/
+ANNIME_RECOMMENDER.egg.info/
+.env
